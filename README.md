@@ -3,11 +3,11 @@
 <img src="lines.svg" align="left" width="300" />
 
 # Hi, I'm Rohan Salvi 👋
-- ➡️Pronouns: **he**/**him**
-- ➡️**Data Engineer 👨🏻‍💻** 
-- ➡️Competencies: **Data science, Machine learning, Matlab/Python/R, Network protocols, DBMS**
-- ➡️Bachlor's of Engineering in **Computer Engineering**
-- ➡️Pursuing Master's of Science in **Information Systems**
+➡Pronouns: **he**/**him**
+➡**Data Engineer 👨🏻‍💻** 
+➡Competencies: **Data science, Machine learning, Matlab/Python/R, Network protocols, DBMS**
+➡Bachlor's of Engineering in **Computer Engineering**
+➡Pursuing Master's of Science in **Information Systems**
 
 
 Hey there, I Love to explore and visualise Huge Complex Datasets ...
@@ -23,13 +23,13 @@ If you’re interested in grabbing coffee ☕️ and talking shop (or to hear ho
 <br />
 
 <a href="https://www.youtube.com/channel/UCX8dtHT7owIgg3JzTff1OBg/">
-    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube" align="center">
+    <img src="https://imgur.com/PMRCsrH.png" align="center" width="40" height="40" alt="YouTube" >
   </a>
 
 <a href="https://twitter.com/C4Nuke">
-    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter" align="center" >
+    <img src="https://imgur.com/6UKZXAM.png" align="center" width="40" height="40" alt="Twitter"  >
 </a>
 
 <a href="https://www.instagram.com/salvi_rohan_/">
-    <img src="https://i.imgur.com/OWdUupI.png" width="40" height="40" alt="Instagram" align="center">
+    <img src="https://i.imgur.com/OWdUupI.png" align="center" width="40" height="40" alt="Instagram" >
   </a>
