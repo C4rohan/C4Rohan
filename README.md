@@ -2,10 +2,10 @@
 
 <img src="lines.svg" align="left" width="300" />
 
-# Hi,! I'm Rohan Salvi! 👋
+# Hi, I'm Rohan Salvi 👋
 ➡Pronouns: **he**/**him**
 
-➡**Data Engineer 👨🏻‍💻** 
+@@➡**Data Engineer 👨🏻‍💻**@@
 
 ➡Competencies: **Data science, Machine learning, Matlab/Python/R, Network protocols, DBMS**
 
