@@ -3,11 +3,11 @@
 <img src="lines.svg" align="left" width="300" />
 
 # Hi, I'm Rohan Salvi 👋
-- Pronouns: **he**/**him**
-- **Data Engineer 👨🏻‍💻** 
-- Competencies: **Data science, Machine learning, Matlab/Python/R, Network protocols, DBMS**
-- Bachlor's of Engineering in **Computer Engineering**
-- Pursuing Master's of Science in **Information Systems**
+- ➡️Pronouns: **he**/**him**
+- ➡️**Data Engineer 👨🏻‍💻** 
+- ➡️Competencies: **Data science, Machine learning, Matlab/Python/R, Network protocols, DBMS**
+- ➡️Bachlor's of Engineering in **Computer Engineering**
+- ➡️Pursuing Master's of Science in **Information Systems**
 
 
 Hey there, I Love to explore and visualise Huge Complex Datasets ...
