@@ -2,7 +2,8 @@
 
 <img src="lines.svg" align="left" width="300" />
 
-<span style="color: Blue"> # Hi, I'm Rohan Salvi </span># Hi, I'm Rohan Salvi 👋
+
+# Hi, I'm Rohan Salvi 👋
 ➡Pronouns: **he**/**him**
 
 ➡**Data Engineer 👨🏻‍💻**
