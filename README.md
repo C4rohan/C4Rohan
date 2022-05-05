@@ -40,5 +40,5 @@ If you’re interested in grabbing coffee ☕️ and talking shop (or to hear ho
 </a>
 
 <a href="https://www.linkedin.com/in/rohan-salvi-17483a143/">
-    <img src="https://i.imgur.com/Vahbdkj.png" align="right" width="40" height="40" alt="YouTube" >
+    <img src="https://i.imgur.com/PXyIkWx.png" align="right" width="40" height="40" alt="YouTube" >
   </a>
