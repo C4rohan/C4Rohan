@@ -4,19 +4,19 @@
 
 # Hi, I'm Rohan Salvi 👋
 - pronouns: **he**/**him**
-- **Data Engineer** 
-- Competencies: data science, machine learning, Matlab/Python/R, network protocols, DBMS 
-- Bachlor's of Engineering in Computer Engineering 
-- Pursuing Master's of Science in Information Systems
+- **Data Engineer 👨🏻‍💻** 
+- Competencies: **Data science, Machine learning, Matlab/Python/R, Network protocols, DBMS**
+- Bachlor's of Engineering in **Computer Engineering**
+- Pursuing Master's of Science in **Information Systems**
 
 
 Hey there, I Love to explore and visualise Huge Complex Datasets ...
 Done projects, in the field of projection-based, Augmented reality, Robotics, hydroponics and much more.
 I have made amazing projects
-Currently working as Research Assistant at UMBC ...
+Currently working as Research Assistant at UMBC 🐾...
 
 
-If you’re interested in grabbing coffee and talking shop (or to hear how I made a fog screen display with touch ), please send an email my way.
+If you’re interested in grabbing coffee ☕️ and talking shop (or to hear how I made a fog screen display with touch ), please send an email my way.
 <br />
 
 
