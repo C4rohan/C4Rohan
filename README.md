@@ -4,7 +4,8 @@
 
 # Hi, I'm Rohan Salvi 👋
 - pronouns: **he**/**him**
-
+- Data Engineer 
+- Skills- Matlab, Python, R, SQL, Java
 - Bachlor's of Engineering in Computer Engineering 
 - Pursuing Master's of Science in Information Systems
 
