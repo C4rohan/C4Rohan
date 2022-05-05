@@ -23,13 +23,13 @@ If you’re interested in grabbing coffee ☕️ and talking shop (or to hear ho
 <br />
 
 <a href="https://www.youtube.com/channel/UCX8dtHT7owIgg3JzTff1OBg/">
-    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
+    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube" align="center">
   </a>
 
 <a href="https://twitter.com/C4Nuke">
-    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter" align="center" >
 </a>
 
 <a href="https://www.instagram.com/salvi_rohan_/">
-    <img src="https://i.imgur.com/OWdUupI.png" width="40" height="40" alt="Instagram">
+    <img src="https://i.imgur.com/OWdUupI.png" width="40" height="40" alt="Instagram" align="center">
   </a>
