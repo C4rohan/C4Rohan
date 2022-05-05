@@ -2,7 +2,7 @@
 
 <img src="lines.svg" align="left" width="300" />
 
-# Hi, I'm Rohan Salvi 👋
+# Hi,! I'm Rohan Salvi! 👋
 ➡Pronouns: **he**/**him**
 
 ➡**Data Engineer 👨🏻‍💻** 
