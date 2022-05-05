@@ -4,9 +4,13 @@
 
 # Hi, I'm Rohan Salvi 👋
 -➡Pronouns: **he**/**him**
+
 -➡**Data Engineer 👨🏻‍💻** 
+
 -➡Competencies: **Data science, Machine learning, Matlab/Python/R, Network protocols, DBMS**
+
 -➡Bachlor's of Engineering in **Computer Engineering**
+
 -➡Pursuing Master's of Science in **Information Systems**
 
 
