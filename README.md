@@ -24,17 +24,39 @@
   </p>
  
 
-<h2>Featured Projects</h2>
-  <p><strong>Password Reset System</strong>: Developed an IVR-based password reset feature using Dialogflow CX, Employees when need to reset their password, will perform an inbound call to Google Telephony, the bot takes their credentials and resets the password for them. </p>
-  <p><strong>Electronic Visit Verification Bot </strong>: The caregivers and the clients will receive a call/SMS from the bot, the bot will collect shift details and record the shit. Multiple Languages supported </p>
-  <p><strong>Gen AI-Based Data Analysis</strong>: Leveraged OPENAI models, uncovering insights from large datasets.</p>
-  <p><strong>Gen AI-Based Chatbot</strong>: Built an intelligent chatbot using OPENAI GPT-4, improving customer service and engagement.</p>
-  <p><strong>KPI Reporting Tool</strong>: Automated KPI reporting for the projects .</p>
+<h2>🚀 Projects</h2>
+  
+  <h3>🔑 Password Reset System</h3>
+  <p><strong>Objective:</strong> Streamline the password reset process for employees using an IVR system, improving security and efficiency.</p>
+  <p><strong>Technologies:</strong> Dialogflow CX, Google Telephony</p>
+  <p><strong>Impact:</strong> Reduced manual IT support workload, providing a 24/7 password reset option and enhancing operational efficiency and security compliance.</p>
+
+  <h3>🏥 Electronic Visit Verification Bot</h3>
+  <p><strong>Objective:</strong> Automate caregiver visit verifications to ensure compliance with care schedules, using a bot for shift details collection via calls and SMS in multiple languages.</p>
+  <p><strong>Technologies:</strong> Telephony APIs, Multilingual Support</p>
+  <p><strong>Impact:</strong> Ensured accurate real-time tracking of caregiver visits, improved compliance, enhanced care quality, and streamlined reporting.</p>
+
+  <h3>📊 Gen AI-Based Data Analysis</h3>
+  <p><strong>Objective:</strong> Analyze large datasets with generative AI models, identifying patterns and insights to inform business strategy.</p>
+  <p><strong>Technologies:</strong> OpenAI Models</p>
+  <p><strong>Impact:</strong> Provided deep data insights, enabling data-driven decision-making, improving operational efficiencies, and competitive advantages.</p>
+
+  <h3>💬 Gen AI-Based Chatbot</h3>
+  <p><strong>Objective:</strong> Enhance customer service with a GPT-4 powered chatbot capable of natural conversations.</p>
+  <p><strong>Technologies:</strong> OpenAI GPT-4</p>
+  <p><strong>Impact:</strong> Improved customer satisfaction by reducing response times and increasing support quality, optimizing service efficiency.</p>
+
+  <h3>📈 KPI Reporting Tool</h3>
+  <p><strong>Objective:</strong> Automate KPI reporting for projects, enhancing visibility of performance and outcomes.</p>
+  <p><strong>Technologies:</strong> Data processing scripts, Visualization tools</p>
+  <p><strong>Impact:</strong> Streamlined project performance monitoring and reporting, enabling real-time informed decision-making and strategy adjustments.</p>
+  
   <h2><strong>Clients: </h2></strong>
   <p><strong> University of Maryland Medical Systems </strong></p></strong>
   <p><strong> Devoted Guardians</strong></p>
   <p><strong>Prince George's Community College</strong></p>
-
+  <p><strong>Elara Caring</strong></p>
+    
   <h2>Certifications</h2>
   <p>
     <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" /> 
