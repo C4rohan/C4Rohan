@@ -30,9 +30,10 @@
   <p><strong>Gen AI-Based Data Analysis</strong>: Leveraged TensorFlow and PyTorch for deep data analysis, uncovering insights from large datasets.</p>
   <p><strong>Gen AI-Based Chatbot</strong>: Built an intelligent chatbot using Rasa and NLP techniques, improving customer service and engagement.</p>
   <p><strong>KPI Reporting Tool</strong>: Automated KPI reporting for the projects .</p>
-  <p><strong> Clients: </strong>p></strong>
-  <p><strong> Univer </strong>p></strong>
- 
+  <h2><strong>Clients: </h2></strong>
+  <p><strong> University of Maryland Medical Systems </strong></p></strong>
+  <p><strong> Devoted Guardians</strong></p>
+  <p><strong>Prince George's Community College</strong></p>
 <strong>If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch ), please send an email my way.</strong>
 <br />
 
