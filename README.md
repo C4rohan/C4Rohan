@@ -10,7 +10,7 @@
 <h2>About Me</h2>
   <ul>
     <li>👨‍💻 Proficient in <strong>Python and JavaScript</strong>, experienced with <strong>Agile and Waterfall</strong> methodologies.</li>
-    <li>🤖 Skilled in <strong>Dialogflow, Rasa, and ChatGPT</strong> for creating intuitive voice user interfaces and NLP solutions.</li>
+    <li>🤖 Skilled in <strong>Dialogflow CX/ES, Kore.ai , and OPENAI API</strong> for creating intuitive voice user interfaces and NLP solutions.</li>
     <li>🎓 Master of Science in Information Systems (<strong>Specialization in Data Science</strong>) from <strong>University of Maryland, Baltimore County</strong>.</li>
     <li>🎓 Bachelor of Engineering in <strong>Computer Engineering</strong> from <strong>Savitribai Phule Pune University</strong>, Pune - MH.</li>
   </ul>
