@@ -7,18 +7,21 @@
 
 ➡**Dedicated Conversational AI Developer with over 4+ years of hands-on experience in designing, developing, and implementing intelligent conversational interfaces for diverse applications and industries. 👨🏻‍💻**
 
-➡Competencies: **Data science, Machine learning, Matlab/Python/R, Network protocols, DBMS**
-
-➡Bachlor's of Engineering in **Computer Engineering**💻
-
-➡Pursuing Master's of Science in **Information Systems**💾
-
-
-Hey there, I Love to explore and visualise Huge Complex Datasets ...
-Done projects, in the field of projection-based, Augmented reality, Robotics, hydroponics and much more.
-I have made amazing projects
-Currently working as Research Assistant at UMBC 🐾...
-
+<h2>About Me</h2>
+  <ul>
+    <li>👨‍💻 Proficient in <strong>Python and TypeScript</strong>, experienced with <strong>Agile and Waterfall</strong> methodologies.</li>
+    <li>🤖 Skilled in <strong>Dialogflow, Rasa, and ChatGPT</strong> for creating intuitive voice user interfaces and NLP solutions.</li>
+    <li>🎓 Master of Science in Information Systems (<strong>Specialization in Data Science</strong>) from <strong>University of Maryland, Baltimore County</strong>.</li>
+    <li>🎓 Bachelor of Engineering in <strong>Computer Engineering</strong> from <strong>Savitribai Phule Pune University</strong>, Pune - MH.</li>
+  </ul>
+  
+  <h2>Skills</h2>
+  <p><strong>Programming Languages:</strong> Python, JavaScript <br>
+     <strong>Visualizations tools:</strong> Matplotlib, Zoho Analytics, Power BI <br>
+     <strong>Conversational AI & VUI:</strong> Dialogflow CX/ES, ChatGPT API, Rasa, Nuance Mix, Amazon Lex <br>
+     <strong>NLP Libraries:</strong> NLTK, spaCy, GPT-3, BERT, Hugging Face's Transformers <br>
+     <strong>Deep Learning Frameworks:</strong> TensorFlow, PyTorch
+  </p>
 
 If you’re interested in grabbing coffee ☕️ and talking shop (or to hear how I made a fog screen display with touch ), please send an email my way.
 <br />
