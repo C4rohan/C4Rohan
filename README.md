@@ -18,8 +18,8 @@
   <h2>Skills</h2>
   <p><strong>Programming Languages:</strong> Python, JavaScript <br>
      <strong>Visualizations tools:</strong> Matplotlib, Zoho Analytics, Power BI <br>
-     <strong>Conversational AI & VUI:</strong> Dialogflow CX/ES, ChatGPT API, Rasa, Nuance Mix, Amazon Lex <br>
-     <strong>NLP Libraries:</strong> NLTK, spaCy, GPT-3, BERT, Hugging Face's Transformers <br>
+     <strong>Conversational AI & VUI:</strong> Dialogflow CX/ES, ChatGPT API, Kore.ai, Nuance Mix, Amazon Lex <br>
+     <strong>NLP Libraries:</strong> NLTK, spaCy, OPENAI, BERT, Hugging Face's Transformers <br>
      <strong>Deep Learning Frameworks:</strong> TensorFlow, PyTorch
   </p>
  
@@ -34,8 +34,6 @@
   <p><strong> University of Maryland Medical Systems </strong></p></strong>
   <p><strong> Devoted Guardians</strong></p>
   <p><strong>Prince George's Community College</strong></p>
-<strong>If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch ), please send an email my way.</strong>
-<br />
 
   <h2>Certifications</h2>
   <p>
@@ -54,6 +52,9 @@
 
 
   <h2>Let's Connect!</h2>
+  <strong>If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch ), please send an email my way.</strong>
+
+
   <!-- Replace # with your actual Social Media or Contact links -->
   <a href="https://www.linkedin.com/in/rohan-salvi-17483a143/"><img src="https://i.imgur.com/PXyIkWx.png" width="40" height="40" alt="LinkedIn"></a>
   <a href="https://twitter.com/C4Nuke"><img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter"></a>
@@ -65,3 +66,4 @@
 <a href="https://www.linkedin.com/in/rohan-salvi-17483a143/">
     <img src="https://i.imgur.com/PXyIkWx.png" align="right" width="40" height="40" alt="Linkedin" >
   </a>
+<br />
