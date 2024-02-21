@@ -33,7 +33,7 @@
 
   <h3>🏥 Electronic Visit Verification Bot</h3>
   <p><strong>Objective:</strong> Automate caregiver visit verifications to ensure compliance with care schedules, using a bot for shift details collection via calls and SMS in multiple languages.</p>
-  <p><strong>Technologies:</strong> Telephony APIs, Multilingual Support</p>
+  <p><strong>Technologies:</strong> Voximplant, Telnyx </p>
   <p><strong>Impact:</strong> Ensured accurate real-time tracking of caregiver visits, improved compliance, enhanced care quality, and streamlined reporting.</p>
 
   <h3>📊 Gen AI-Based Data Analysis</h3>
