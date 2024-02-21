@@ -38,12 +38,12 @@
 
   <h3>📊 Gen AI-Based Data Analysis</h3>
   <p><strong>Objective:</strong> Analyze large datasets with generative AI models, identifying patterns and insights to inform business strategy.</p>
-  <p><strong>Technologies:</strong> OpenAI Models</p>
+  <p><strong>Technologies:</strong> OpenAI Models,Flask,Python</p>
   <p><strong>Impact:</strong> Provided deep data insights, enabling data-driven decision-making, improving operational efficiencies, and competitive advantages.</p>
 
   <h3>💬 Gen AI-Based Chatbot</h3>
   <p><strong>Objective:</strong> Enhance customer service with a GPT-4 powered chatbot capable of natural conversations.</p>
-  <p><strong>Technologies:</strong> OpenAI GPT-4</p>
+  <p><strong>Technologies:</strong> OpenAI GPT-4,Flask, Python</p>
   <p><strong>Impact:</strong> Improved customer satisfaction by reducing response times and increasing support quality, optimizing service efficiency.</p>
 
   <h3>📈 KPI Reporting Tool</h3>
