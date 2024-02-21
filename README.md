@@ -63,7 +63,7 @@
 </div>
 
 
-<a href="https://www.linkedin.com/in/rohan-salvi-17483a143/">
+<!-- href="https://www.linkedin.com/in/rohan-salvi-17483a143/">
     <img src="https://i.imgur.com/PXyIkWx.png" align="right" width="40" height="40" alt="Linkedin" >
-  </a>
+  </a>-->
 <br />
