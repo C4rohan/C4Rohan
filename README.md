@@ -25,10 +25,10 @@
  
 
 <h2>Featured Projects</h2>
-  <p><strong>Password Reset System</strong>: Developed an IVR-based password reset feature using Dialogflow CX, Employees when need to reset their password perform an inbound call to Google Telephony, the bot takes their credentials and resets the password for them. </p>
-  <p><strong>Call and SMS Caregiver Client</strong>: Integrated Telnyx API to facilitate communication between caregivers and clients, ensuring timely support.</p>
-  <p><strong>Gen AI-Based Data Analysis</strong>: Leveraged TensorFlow and PyTorch for deep data analysis, uncovering insights from large datasets.</p>
-  <p><strong>Gen AI-Based Chatbot</strong>: Built an intelligent chatbot using Rasa and NLP techniques, improving customer service and engagement.</p>
+  <p><strong>Password Reset System</strong>: Developed an IVR-based password reset feature using Dialogflow CX, Employees when need to reset their password, will perform an inbound call to Google Telephony, the bot takes their credentials and resets the password for them. </p>
+  <p><strong>Electronic Visit Verification Bot </strong>: The caregivers and the clients will receive a call/SMS from the bot, the bot will collect shift details and record the shit. Multiple Languages supported </p>
+  <p><strong>Gen AI-Based Data Analysis</strong>: Leveraged OPENAI models, uncovering insights from large datasets.</p>
+  <p><strong>Gen AI-Based Chatbot</strong>: Built an intelligent chatbot using OPENAI GPT-4, improving customer service and engagement.</p>
   <p><strong>KPI Reporting Tool</strong>: Automated KPI reporting for the projects .</p>
   <h2><strong>Clients: </h2></strong>
   <p><strong> University of Maryland Medical Systems </strong></p></strong>
