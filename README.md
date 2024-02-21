@@ -25,17 +25,27 @@
  
 
 <h2>Featured Projects</h2>
-  <p><strong>Password Reset System</strong>: Developed an IVR-based password reset feature using Dialogflow CX, Employees when needed to reset their password perform an inbound call to Google Telephony, the bot takes its credentials and Resets Password for them </p>
+  <p><strong>Password Reset System</strong>: Developed an IVR-based password reset feature using Dialogflow CX, Employees when need to reset their password perform an inbound call to Google Telephony, the bot takes their credentials and resets the password for them. </p>
   <p><strong>Call and SMS Caregiver Client</strong>: Integrated Telnyx API to facilitate communication between caregivers and clients, ensuring timely support.</p>
   <p><strong>Gen AI-Based Data Analysis</strong>: Leveraged TensorFlow and PyTorch for deep data analysis, uncovering insights from large datasets.</p>
   <p><strong>Gen AI-Based Chatbot</strong>: Built an intelligent chatbot using Rasa and NLP techniques, improving customer service and engagement.</p>
   <p><strong>KPI Reporting Tool</strong>: Automated KPI reporting for the projects .</p>
-  
+  <p><strong> Clients: </strong>p></strong>
+  <p><strong> Univer </strong>p></strong>
  
 <strong>If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch ), please send an email my way.</strong>
 <br />
 
-
+  <h2>Certifications</h2>
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" /> 
+    <strong>Google Cloud Certification - Professional Data Engineer</strong>
+  </p>
+  <p>
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" /> 
+    <strong>Azure Certification AI-102 - Designing and Implementing a Microsoft Azure AI Solution</strong>
+  </p>
+  
 
 
 
