@@ -46,10 +46,10 @@
   <p><strong>Technologies:</strong> OpenAI GPT-4,Flask, Python</p>
   <p><strong>Impact:</strong> Improved customer satisfaction by reducing response times and increasing support quality, optimizing service efficiency.</p>
 
-  <h3>📈 KPI Reporting Tool</h3>
+  <h3>📈 KPI Reporting </h3>
   <p><strong>Objective:</strong> Automate KPI reporting for projects, enhancing visibility of performance and outcomes.</p>
   <p><strong>Technologies:</strong> Data processing scripts, Visualization tools</p>
-  <p><strong>Impact:</strong> Streamlined project performance monitoring and reporting, enabling real-time informed decision-making and strategy adjustments.</p>
+  <p><strong>Impact:</strong> Streamlined project performance monitoring and reporting for IVR and chatbots, enabling real-time informed decision-making and strategy adjustments.</p>
   
   <h2><strong>Clients: </h2></strong>
   <p><strong> University of Maryland Medical Systems </strong></p></strong>
