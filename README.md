@@ -52,6 +52,9 @@
   <p><strong>Impact:</strong> Streamlined project performance monitoring and reporting for IVR and chatbots, enabling real-time informed decision-making and strategy adjustments.</p>
   
   <h2><strong>Clients: </h2></strong>
+  <p><strong>Cerecore</strong></p>
+  <p><strong>Cognizant</strong></p>
+  <p><strong>Verizon</strong></p>
   <p><strong> University of Maryland Medical Systems </strong></p></strong>
   <p><strong> Devoted Guardians</strong></p>
   <p><strong>Prince George's Community College</strong></p>
