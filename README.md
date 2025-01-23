@@ -1,94 +1,127 @@
-<br />
+<!--
+If you want to add a profile view counter, you can use services like https://visitor-badge.glitch.me or https://komarev.com. 
+Example: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=USERNAME.REPONAME)
+Replace USERNAME with your GitHub username. 
+-->
 
-<img src="lines.svg" align="left" width="300" />
+<div align="center">
+  <img src="lines.svg" alt="Header Image" width="300" />
 
-
-# Hi, I'm Rohan Salvi 👋
-
-➡**Dedicated Conversational AI Developer with over 5+ years of hands-on experience in designing, developing, and implementing intelligent conversational interfaces for diverse applications and industries. 👨🏻‍💻**
-
-<h2>About Me</h2>
-  <ul>
-    <li>👨‍💻 Proficient in <strong>Python and JavaScript</strong>, experienced with <strong>Agile and Waterfall</strong> methodologies.</li>
-    <li>🤖 Skilled in <strong>Dialogflow CX/ES, Kore.ai , and OPENAI API</strong> for creating intuitive voice user interfaces and NLP solutions.</li>
-    <li>🎓 Master of Science in Information Systems (<strong>Specialization in Data Science</strong>) from <strong>University of Maryland, Baltimore County</strong>.</li>
-    <li>🎓 Bachelor of Engineering in <strong>Computer Engineering</strong> from <strong>Savitribai Phule Pune University</strong>, Pune - MH.</li>
-  </ul>
-  
-  <h2>Skills</h2>
-  <p><strong>Programming Languages:</strong> Python, JavaScript <br>
-     <strong>Visualizations tools:</strong> Matplotlib, Zoho Analytics, Power BI <br>
-     <strong>Conversational AI & VUI:</strong> Dialogflow CX/ES, ChatGPT API, Kore.ai, Nuance Mix, Amazon Lex <br>
-     <strong>NLP Libraries:</strong> NLTK, spaCy, OPENAI, BERT, Hugging Face's Transformers <br>
-     <strong>Deep Learning Frameworks:</strong> TensorFlow, PyTorch
-  </p>
- 
-
-<h2>🚀 Projects</h2>
-  
-  <h3>🔑 Password Reset System</h3>
-  <p><strong>Objective:</strong> Streamline the password reset process for employees using an IVR system, improving security and efficiency.</p>
-  <p><strong>Technologies:</strong> Dialogflow CX, Google Telephony</p>
-  <p><strong>Impact:</strong> Reduced manual IT support workload, providing a 24/7 password reset option and enhancing operational efficiency and security compliance.</p>
-
-  <h3>🏥 Electronic Visit Verification Bot</h3>
-  <p><strong>Objective:</strong> Automate caregiver visit verifications to ensure compliance with care schedules, using a bot for shift details collection via calls and SMS in multiple languages.</p>
-  <p><strong>Technologies:</strong> Voximplant, Telnyx </p>
-  <p><strong>Impact:</strong> Ensured accurate real-time tracking of caregiver visits, improved compliance, enhanced care quality, and streamlined reporting.</p>
-
-  <h3>📊 Gen AI-Based Data Analysis</h3>
-  <p><strong>Objective:</strong> Analyze large datasets with generative AI models, identifying patterns and insights to inform business strategy.</p>
-  <p><strong>Technologies:</strong> OpenAI Models,Flask,Python</p>
-  <p><strong>Impact:</strong> Provided deep data insights, enabling data-driven decision-making, improving operational efficiencies, and competitive advantages.</p>
-
-  <h3>💬 Gen AI-Based Chatbot</h3>
-  <p><strong>Objective:</strong> Enhance customer service with a GPT-4 powered chatbot capable of natural conversations.</p>
-  <p><strong>Technologies:</strong> OpenAI GPT-4,Flask, Python</p>
-  <p><strong>Impact:</strong> Improved customer satisfaction by reducing response times and increasing support quality, optimizing service efficiency.</p>
-
-  <h3>📈 KPI Reporting </h3>
-  <p><strong>Objective:</strong> Automate KPI reporting for projects, enhancing visibility of performance and outcomes.</p>
-  <p><strong>Technologies:</strong> Data processing scripts, Visualization tools</p>
-  <p><strong>Impact:</strong> Streamlined project performance monitoring and reporting for IVR and chatbots, enabling real-time informed decision-making and strategy adjustments.</p>
-  
-  <h2><strong>Clients: </h2></strong>
-  <p><strong>Cerecore</strong></p>
-  <p><strong>Cognizant</strong></p>
-  <p><strong>Verizon</strong></p>
-  <p><strong> University of Maryland Medical Systems </strong></p></strong>
-  <p><strong> Devoted Guardians</strong></p>
-  <p><strong>Prince George's Community College</strong></p>
-  <p><strong>Elara Caring</strong></p>
-    
-  <h2>Certifications</h2>
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" /> 
-    <strong>Google Cloud Certification - Professional Data Engineer</strong>
-  </p>
-  <p>
-    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" /> 
-    <strong>Azure Certification AI-102 - Designing and Implementing a Microsoft Azure AI Solution</strong>
-  </p>
-  
-
-
-
-
-
-
-  <h2>Let's Connect!</h2>
-  <strong>If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch ), please send an email my way.</strong>
-
-
-  <!-- Replace # with your actual Social Media or Contact links 
-  <a href="https://www.linkedin.com/in/rohan-salvi-17483a143/"><img src="https://i.imgur.com/PXyIkWx.png" width="40" height="40" alt="LinkedIn"></a>-->
-  <a href="https://twitter.com/C4Nuke"><img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter"></a>
-  <a href="https://www.instagram.com/salvi_rohan_/"><img src="https://i.imgur.com/OWdUupI.png" width="40" height="40" alt="Instagram"></a>
-  <a href="https://www.youtube.com/channel/UCX8dtHT7owIgg3JzTff1OBg/"><img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube"></a>
+  # Hi, I'm Rohan Salvi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  **Dedicated Conversational AI Developer with 5+ years of experience**  
 </div>
 
+---
 
-<!-- href="https://www.linkedin.com/in/rohan-salvi-17483a143/">
-    <img src="https://i.imgur.com/PXyIkWx.png" align="right" width="40" height="40" alt="Linkedin" >
-  </a>-->
-<br />
+## 👨🏻‍💻 About Me
+
+- **Experience**: 5+ years designing, developing, and implementing intelligent conversational interfaces for diverse applications and industries.  
+- **Methodologies**: Experienced with **Agile** and **Waterfall** software development practices.  
+- **Specialization**:  
+  - Master of Science in Information Systems (**Data Science** specialization) from **University of Maryland, Baltimore County**  
+  - Bachelor of Engineering in **Computer Engineering** from **Savitribai Phule Pune University**, Pune - MH  
+
+- **Core Proficiencies**:  
+  - Programming in **Python** and **JavaScript**  
+  - Skilled in **Dialogflow CX/ES, Kore.ai, and OPENAI API** for creating intuitive voice user interfaces and NLP solutions  
+
+---
+
+## ⚙️ Technical Skills
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-d42127?style=flat-square&logo=zoho&logoColor=white)
+
+**Conversational AI & VUI**  
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
+![Kore.ai](https://img.shields.io/badge/Kore.ai-3360FF?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Nuance Mix](https://img.shields.io/badge/NuanceMix-00758f?style=flat-square)
+![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**NLP Libraries**  
+![NLTK](https://img.shields.io/badge/NLTK-85C44E?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+![BERT](https://img.shields.io/badge/BERT-181717?style=flat-square&logo=github)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD858?style=flat-square&logo=huggingface&logoColor=black)
+
+**Deep Learning Frameworks**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🔑 Password Reset System
+- **Objective**: Streamline the password reset process for employees using an IVR system, improving security and efficiency.  
+- **Technologies**: Dialogflow CX, Google Telephony  
+- **Impact**: Reduced manual IT support workload, provided 24/7 password reset option, and enhanced operational efficiency and security compliance.
+
+### 🏥 Electronic Visit Verification Bot
+- **Objective**: Automate caregiver visit verifications to ensure compliance with care schedules, using a bot for shift details collection via calls and SMS in multiple languages.  
+- **Technologies**: Voximplant, Telnyx  
+- **Impact**: Ensured accurate real-time tracking of caregiver visits, improved compliance, enhanced care quality, and streamlined reporting.
+
+### 📊 Gen AI-Based Data Analysis
+- **Objective**: Analyze large datasets with generative AI models, identifying patterns and insights to inform business strategy.  
+- **Technologies**: OpenAI Models, Flask, Python  
+- **Impact**: Provided deep data insights, enabling data-driven decision-making, improving operational efficiencies, and offering competitive advantages.
+
+### 💬 Gen AI-Based Chatbot
+- **Objective**: Enhance customer service with a GPT-4 powered chatbot capable of natural conversations.  
+- **Technologies**: OpenAI GPT-4, Flask, Python  
+- **Impact**: Improved customer satisfaction by reducing response times and increasing support quality, optimizing service efficiency.
+
+### 📈 KPI Reporting
+- **Objective**: Automate KPI reporting for projects, enhancing visibility of performance and outcomes.  
+- **Technologies**: Data processing scripts, Visualization tools  
+- **Impact**: Streamlined project performance monitoring and reporting for IVR and chatbots, enabling real-time informed decision-making and strategy adjustments.
+
+---
+
+## 🤝 Clients
+- **Cerecore**  
+- **Cognizant**  
+- **Verizon**  
+- **University of Maryland Medical Systems**  
+- **Devoted Guardians**  
+- **Prince George's Community College**  
+- **Elara Caring**  
+
+---
+
+## 🎓 Certifications
+- <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="24" /> **Google Cloud Certification – Professional Data Engineer**  
+- <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="24" /> **Azure AI-102 – Designing and Implementing a Microsoft Azure AI Solution**
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Substitute YOUR_GITHUB_USERNAME in the links below with your actual GitHub username -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+- **Email**: [rohansalvi000@gmail.com](mailto:rohansalvi000@gmail.com)  
+- **LinkedIn**: [Rohan Salvi](#) <!-- Replace # with your actual LinkedIn URL -->
+- **Twitter**: [@C4Nuke](https://twitter.com/C4Nuke)  
+- **Instagram**: [salvi_rohan_](https://www.instagram.com/salvi_rohan_/)  
+- **YouTube**: [Channel](https://www.youtube.com/channel/UCX8dtHT7owIgg3JzTff1OBg/)  
+
+**If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch), please send an email my way.**  
+
+---
