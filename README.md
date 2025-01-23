@@ -116,11 +116,8 @@ Replace USERNAME with your GitHub username.
 
 ## 🌐 Let's Connect!
 
-- **Email**: [rohansalvi000@gmail.com](mailto:rohansalvi000@gmail.com)  
-- **LinkedIn**: [Rohan Salvi](#) <!-- Replace # with your actual LinkedIn URL -->
-- **Twitter**: [@C4Nuke](https://twitter.com/C4Nuke)  
+
 - **Instagram**: [salvi_rohan_](https://www.instagram.com/salvi_rohan_/)  
-- **YouTube**: [Channel](https://www.youtube.com/channel/UCX8dtHT7owIgg3JzTff1OBg/)  
 
 **If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch), please send an email my way.**  
 
