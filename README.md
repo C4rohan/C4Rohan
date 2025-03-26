@@ -87,6 +87,8 @@ Replace USERNAME with your GitHub username.
 ---
 
 ## 🤝 Clients
+-**HCA Healthcare**
+-**Parallon**
 - **Cerecore**  
 - **Cognizant**  
 - **Verizon**  
