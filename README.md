@@ -59,7 +59,7 @@ Replace USERNAME with your GitHub username.
 
 ## 🚀 Projects
 
-###🏥 HealthAssist 
+### 🏥 HealthAssist 
 - **Objective**: Handling tasks from balance inquiries and payments to itemized bill and medical‑record requests without live‑agent handoffs.
 - **Technologies**:  Dialogflow CX, Genesys CX
 - **Impact**:By deploying a bilingual, cloud‑native Dialogflow Virtual Agent on Genesys CX with us‑central1/us‑east1 redundancy, we automate billing and records self‑service to deflect 20–40% of calls, cut contact‑center costs by ~85%, deliver 24/7 high availability, and generate analytics for continuous optimization and future scalability.
