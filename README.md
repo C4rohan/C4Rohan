@@ -124,18 +124,11 @@ Replace USERNAME with your GitHub username.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4Rohan&theme=radical" height="150" alt="GitHub Streak" />
 </p>
 
-## 📌 Pinned Repositories
-
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=C4Rohan&repo=C4Rohan&theme=radical)](https://github.com/C4Rohan/C4Rohan)
-
 ---
 
 ## 🌐 Let's Connect!
 
 - **Instagram**: [salvi_rohan_](https://www.instagram.com/salvi_rohan_/)
-- **LinkedIn**: [Rohan Salvi](https://www.linkedin.com/in/rohansalvi)
-- **Twitter**: [@C4Rohan](https://twitter.com/C4Rohan)
-- **Website**: [c4rohan.com](https://c4rohan.com)
 
 **If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch), please send an email my way.**
 
