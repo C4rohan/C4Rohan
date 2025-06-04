@@ -1,8 +1,10 @@
 <!--
 If you want to add a profile view counter, you can use services like https://visitor-badge.glitch.me or https://komarev.com. 
 Example: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=USERNAME.REPONAME)
-Replace USERNAME with your GitHub username. 
+Replace USERNAME with your GitHub username.
 -->
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=C4Rohan.C4Rohan)
 
 <div align="center">
   <img src="lines.svg" alt="Header Image" width="300" />
@@ -118,14 +120,23 @@ Replace USERNAME with your GitHub username.
   <img src="https://github-readme-stats.vercel.app/api?username=C4Rohan&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4Rohan&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4Rohan&theme=radical" height="150" alt="GitHub Streak" />
+</p>
+
+## 📌 Pinned Repositories
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=C4Rohan&repo=C4Rohan&theme=radical)](https://github.com/C4Rohan/C4Rohan)
 
 ---
 
 ## 🌐 Let's Connect!
 
+- **Instagram**: [salvi_rohan_](https://www.instagram.com/salvi_rohan_/)
+- **LinkedIn**: [Rohan Salvi](https://www.linkedin.com/in/rohansalvi)
+- **Twitter**: [@C4Rohan](https://twitter.com/C4Rohan)
+- **Website**: [c4rohan.com](https://c4rohan.com)
 
-- **Instagram**: [salvi_rohan_](https://www.instagram.com/salvi_rohan_/)  
-
-**If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch), please send an email my way.**  
+**If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch), please send an email my way.**
 
 ---
