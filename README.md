@@ -64,7 +64,7 @@ Replace USERNAME with your GitHub username.
 ### 🏥 HealthAssist 
 - **Objective**: Handling tasks from balance inquiries and payments to itemized bill and medical‑record requests without live‑agent handoffs.
 - **Technologies**:  Dialogflow CX, Genesys CX
-- **Impact**:By deploying a bilingual, cloud‑native Dialogflow Virtual Agent on Genesys CX with us‑central1/us‑east1 redundancy, we automate billing and records self‑service to deflect 20–40% of calls, cut contact‑center costs by ~85%, deliver 24/7 high availability, and generate analytics for continuous optimization and future scalability.
+- **Impact**: By deploying a bilingual, cloud‑native Dialogflow Virtual Agent on Genesys CX with us‑central1/us‑east1 redundancy, we automate billing and records self‑service to deflect 20–40% of calls, cut contact‑center costs by ~85%, deliver 24/7 high availability, and generate analytics for continuous optimization and future scalability.
   
 ### 🔑 Password Reset System
 - **Objective**: Streamline the password reset process for employees using an IVR system, improving security and efficiency.  
@@ -114,7 +114,6 @@ Replace USERNAME with your GitHub username.
 
 ## 📊 GitHub Stats
 
-<!-- Substitute YOUR_GITHUB_USERNAME in the links below with your actual GitHub username -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C4Rohan&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
@@ -133,3 +132,13 @@ Replace USERNAME with your GitHub username.
 **If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch), please send an email my way.**
 
 ---
+
+## 🧪 Running Tests
+
+Install dependencies and run the tests using [pytest](https://pytest.org/):
+
+```bash
+pip install -r requirements.txt
+pytest
+```
+
