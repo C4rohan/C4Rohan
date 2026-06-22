@@ -8,7 +8,8 @@
   </a>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=C4rohan&label=Profile%20views&color=F75C7E&style=flat-square" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=C4rohan&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/C4rohan?label=Followers&style=for-the-badge&color=F75C7E&logo=github" alt="followers" />
     <a href="https://www.instagram.com/salvi_rohan_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="mailto:rohansalvi98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
@@ -101,12 +102,16 @@ Multilingual caregiver visit verification over **calls + SMS** using **Voximplan
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C4rohan&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rohan&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C4rohan&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github&card_width=450" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rohan&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=320" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=C4rohan&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=C4rohan&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C4rohan&theme=redical&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
 </div>
 
 <div align="center">
