@@ -17,11 +17,49 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🎯 **Conversational AI Developer** with **5+ years** designing, building, and shipping intelligent voice & chat interfaces across healthcare, telecom, and enterprise.
-- 🤖 Lately building beyond chatbots — **GenAI apps, full-stack web products, and an openpilot self-driving build** for my Hyundai Ioniq 6.
-- 🎓 **M.S. in Information Systems** (Data Science) — University of Maryland, Baltimore County · **B.E. in Computer Engineering** — Savitribai Phule Pune University.
+```bash
+$ rohan --help
+A Conversational AI Developer who builds voice & chat agents
+that actually pick up the phone.
+
+USAGE:
+  rohan [SUBCOMMAND]
+
+SUBCOMMANDS:
+  build       design dialog flows, NLU, fulfillment & IVR
+  ship        production agents on Dialogflow CX, Kore.ai, Genesys
+  tinker      GenAI apps, openpilot for my Ioniq 6, fog-screen displays
+  coffee ☕   always open — ask me how a bot really learns to listen
+```
+
+> ```text
+> 👤 You    : who are you?
+> 🤖 Rohan  : Conversational AI Developer — 5+ yrs shipping voice
+>             & chat agents that handle real customer traffic.
+>
+> 👤 You    : like what?
+> 🤖 Rohan  : Bilingual healthcare IVR (40% call deflection),
+>             multilingual visit-verification over SMS+voice,
+>             GPT-4 chatbots, and a few things I'm not allowed
+>             to talk about 😉
+>
+> 👤 You    : what are you building now?
+> 🤖 Rohan  : An openpilot self-driving stack for my Ioniq 6,
+>             a gold/silver price desk for jewellers,
+>             and whatever doesn't let me sleep this week.
+>
+> 👤 You    : confidence?
+> 🤖 Rohan  : 0.97 — let's talk.
+> ```
+
+<details>
+<summary>📄 More about me</summary>
+
+- 🎓 **M.S. in Information Systems** (Data Science) — University of Maryland, Baltimore County
+- 🎓 **B.E. in Computer Engineering** — Savitribai Phule Pune University
 - ⚙️ Comfortable across **Agile** and **Waterfall**; happiest taking something from a blank repo to production.
-- ☕ Always up for grabbing coffee and talking shop — ask me how I built a **touch-enabled fog-screen display**.
+
+</details>
 
 ---
 
