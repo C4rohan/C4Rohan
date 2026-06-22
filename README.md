@@ -1,135 +1,120 @@
-<!--
-If you want to add a profile view counter, you can use services like https://visitor-badge.glitch.me or https://komarev.com. 
-Example: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=USERNAME.REPONAME)
-Replace USERNAME with your GitHub username.
--->
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=C4Rohan.C4Rohan)
-
 <div align="center">
-  <img src="lines.svg" alt="Header Image" width="300" />
+  <img src="lines.svg" alt="Header" width="320" />
 
   # Hi, I'm Rohan Salvi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  **Dedicated Conversational AI Developer with 5+ years of experience**  
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Conversational+AI+Developer;Full-Stack+%26+GenAI+Builder;Self-Driving+%2F+openpilot+Tinkerer;Turning+ideas+into+shipping+products" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=C4rohan&label=Profile%20views&color=F75C7E&style=flat-square" alt="profile views" />
+    <a href="https://www.instagram.com/salvi_rohan_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:rohansalvi98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
 ## 👨🏻‍💻 About Me
 
-- **Experience**: 5+ years designing, developing, and implementing intelligent conversational interfaces for diverse applications and industries.  
-- **Methodologies**: Experienced with **Agile** and **Waterfall** software development practices.  
-- **Specialization**:  
-  - Master of Science in Information Systems (**Data Science** specialization) from **University of Maryland, Baltimore County**  
-  - Bachelor of Engineering in **Computer Engineering** from **Savitribai Phule Pune University**, Pune - MH  
-
-- **Core Proficiencies**:  
-  - Programming in **Python** and **JavaScript**  
-  - Skilled in **Dialogflow CX/ES, Kore.ai, and OPENAI API** for creating intuitive voice user interfaces and NLP solutions  
+- 🎯 **Conversational AI Developer** with **5+ years** designing, building, and shipping intelligent voice & chat interfaces across healthcare, telecom, and enterprise.
+- 🤖 Lately building beyond chatbots — **GenAI apps, full-stack web products, and an openpilot self-driving build** for my Hyundai Ioniq 6.
+- 🎓 **M.S. in Information Systems** (Data Science) — University of Maryland, Baltimore County · **B.E. in Computer Engineering** — Savitribai Phule Pune University.
+- ⚙️ Comfortable across **Agile** and **Waterfall**; happiest taking something from a blank repo to production.
+- ☕ Always up for grabbing coffee and talking shop — ask me how I built a **touch-enabled fog-screen display**.
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ Tech Stack
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Visualization**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Zoho Analytics](https://img.shields.io/badge/Zoho%20Analytics-d42127?style=flat-square&logo=zoho&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Conversational AI & VUI**  
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
 ![Kore.ai](https://img.shields.io/badge/Kore.ai-3360FF?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Nuance Mix](https://img.shields.io/badge/NuanceMix-00758f?style=flat-square)
+![Nuance Mix](https://img.shields.io/badge/Nuance%20Mix-00758f?style=flat-square)
 ![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Genesys](https://img.shields.io/badge/Genesys-FF4F1F?style=flat-square&logo=genesys&logoColor=white)
 
-**NLP Libraries**  
-![NLTK](https://img.shields.io/badge/NLTK-85C44E?style=flat-square)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-181717?style=flat-square&logo=github)
+**GenAI & NLP**  
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD858?style=flat-square&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-85C44E?style=flat-square)
+![BERT](https://img.shields.io/badge/BERT-181717?style=flat-square&logo=github)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Deep Learning Frameworks**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+**Web & App**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
-
-## 🚀 Projects
-
-### 🏥 HealthAssist 
-- **Objective**: Handling tasks from balance inquiries and payments to itemized bill and medical‑record requests without live‑agent handoffs.
-- **Technologies**:  Dialogflow CX, Genesys CX
-- **Impact**:By deploying a bilingual, cloud‑native Dialogflow Virtual Agent on Genesys CX with us‑central1/us‑east1 redundancy, we automate billing and records self‑service to deflect 20–40% of calls, cut contact‑center costs by ~85%, deliver 24/7 high availability, and generate analytics for continuous optimization and future scalability.
-  
-### 🔑 Password Reset System
-- **Objective**: Streamline the password reset process for employees using an IVR system, improving security and efficiency.  
-- **Technologies**: Dialogflow CX, Google Telephony  
-- **Impact**: Reduced manual IT support workload, provided 24/7 password reset option, and enhanced operational efficiency and security compliance.
-
-### 🏥 Electronic Visit Verification Bot
-- **Objective**: Automate caregiver visit verifications to ensure compliance with care schedules, using a bot for shift details collection via calls and SMS in multiple languages.  
-- **Technologies**: Voximplant, Telnyx  
-- **Impact**: Ensured accurate real-time tracking of caregiver visits, improved compliance, enhanced care quality, and streamlined reporting.
-
-### 📊 Gen AI-Based Data Analysis
-- **Objective**: Analyze large datasets with generative AI models, identifying patterns and insights to inform business strategy.  
-- **Technologies**: OpenAI Models, Flask, Python  
-- **Impact**: Provided deep data insights, enabling data-driven decision-making, improving operational efficiencies, and offering competitive advantages.
-
-### 💬 Gen AI-Based Chatbot
-- **Objective**: Enhance customer service with a GPT-4 powered chatbot capable of natural conversations.  
-- **Technologies**: OpenAI GPT-4, Flask, Python  
-- **Impact**: Improved customer satisfaction by reducing response times and increasing support quality, optimizing service efficiency.
-
-### 📈 KPI Reporting
-- **Objective**: Automate KPI reporting for projects, enhancing visibility of performance and outcomes.  
-- **Technologies**: Data processing scripts, Visualization tools  
-- **Impact**: Streamlined project performance monitoring and reporting for IVR and chatbots, enabling real-time informed decision-making and strategy adjustments.
+**Cloud, Data & Tools**  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Voximplant](https://img.shields.io/badge/Voximplant-1F1F1F?style=flat-square)
+![Telnyx](https://img.shields.io/badge/Telnyx-00C44F?style=flat-square)
 
 ---
 
-## 🤝 Clients
-- **HCA Healthcare**
-- **Parallon**
-- **Cerecore**  
-- **Cognizant**  
-- **Verizon**  
-- **University of Maryland Medical Systems**  
-- **Devoted Guardians**  
-- **Prince George's Community College**  
-- **Elara Caring**  
+## 🚀 Featured Projects
+
+> A mix of what I'm building in the open and the conversational-AI systems I've shipped in production.
+
+### 🛣️ [ioniq6-pilot](https://github.com/C4rohan/ioniq6-pilot)
+Personal **openpilot** self-driving build for a Hyundai Ioniq 6 running on a comma 3X — driver-assist tuning, lateral/longitudinal control, and real-world testing. `Python`
+
+### 🤝 HealthAssist — *Production*
+Bilingual, cloud-native **Dialogflow CX virtual agent** on **Genesys CX** (us-central1/us-east1 redundancy) automating medical billing & records self-service. **Deflects 20–40% of calls, ~85% lower contact-center cost, 24/7 availability.**
+
+### 🩺 Electronic Visit Verification Bot — *Production*
+Multilingual caregiver visit verification over **calls + SMS** using **Voximplant & Telnyx** — real-time compliance tracking and streamlined reporting.
+
+### 🤖 GenAI Suite — *Production*
+**GPT-4 + Flask** chatbots and data-analysis tools that cut response times and turn large datasets into decision-ready insights.
+
+---
+
+## 🏆 Where I've Shipped
+
+`HCA Healthcare` · `Parallon` · `CereCore` · `Cognizant` · `Verizon` · `University of Maryland Medical Systems` · `Devoted Guardians` · `Prince George's Community College` · `Elara Caring`
 
 ---
 
 ## 🎓 Certifications
-- <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" width="24" /> **Google Cloud Certification – Professional Data Engineer**  
-- <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" width="24" /> **Azure AI-102 – Designing and Implementing a Microsoft Azure AI Solution**
+
+- <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="20" /> **Google Cloud — Professional Data Engineer**
+- <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="20" /> **Microsoft Azure — AI-102: Designing & Implementing an Azure AI Solution**
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Substitute YOUR_GITHUB_USERNAME in the links below with your actual GitHub username -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=C4rohan&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rohan&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C4Rohan&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4Rohan&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C4Rohan&theme=radical" height="150" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=C4rohan&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
 
----
-
-## 🌐 Let's Connect!
-
-- **Instagram**: [salvi_rohan_](https://www.instagram.com/salvi_rohan_/)
-
-**If you’re interested in grabbing coffee ☕️ and talking shop (or hearing how I made a fog screen display with touch), please send an email my way.**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=C4rohan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+</div>
 
 ---
+
+<div align="center">
+  <b>If you want to grab coffee ☕️ and talk conversational AI, GenAI, or self-driving cars — reach out!</b>
+</div>
