@@ -1,0 +1,58 @@
+<svg width="680" height="730" viewBox="0 0 680 730" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F75C7E"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="678" height="728" rx="24" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- header -->
+  <circle cx="44" cy="40" r="22" fill="url(#accent)"/>
+  <text x="44" y="47" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">R</text>
+  <text x="80" y="36" font-size="17" font-weight="700" fill="#e6edf3">Rohan</text>
+  <circle cx="80" cy="52" r="4" fill="#3fb950"/>
+  <text x="92" y="56" font-size="12" fill="#8b949e">online · Conversational AI</text>
+  <line x1="20" y1="76" x2="660" y2="76" stroke="#30363d" stroke-width="1"/>
+
+  <!-- B1 user -->
+  <rect x="506" y="92" width="150" height="44" rx="18" fill="url(#accent)"/>
+  <text x="640" y="120" font-size="15" fill="#ffffff" text-anchor="end">who are you?</text>
+
+  <!-- B2 bot -->
+  <rect x="24" y="150" width="430" height="88" rx="18" fill="#21262d"/>
+  <text x="44" y="178" font-size="15" fill="#e6edf3">Conversational AI Developer — 5+ years</text>
+  <text x="44" y="200" font-size="15" fill="#e6edf3">shipping voice &amp; chat agents that handle</text>
+  <text x="44" y="222" font-size="15" fill="#e6edf3">real customer traffic.</text>
+
+  <!-- B3 user -->
+  <rect x="516" y="252" width="140" height="44" rx="18" fill="url(#accent)"/>
+  <text x="640" y="280" font-size="15" fill="#ffffff" text-anchor="end">like what?</text>
+
+  <!-- B4 bot -->
+  <rect x="24" y="310" width="468" height="110" rx="18" fill="#21262d"/>
+  <text x="44" y="338" font-size="15" fill="#e6edf3">Bilingual healthcare IVR (40% call</text>
+  <text x="44" y="360" font-size="15" fill="#e6edf3">deflection), multilingual visit-verification</text>
+  <text x="44" y="382" font-size="15" fill="#e6edf3">over SMS + voice, GPT-4 chatbots —</text>
+  <text x="44" y="404" font-size="15" fill="#e6edf3">and a few things I can't mention.</text>
+
+  <!-- B5 user -->
+  <rect x="416" y="434" width="240" height="44" rx="18" fill="url(#accent)"/>
+  <text x="640" y="462" font-size="15" fill="#ffffff" text-anchor="end">what are you building now?</text>
+
+  <!-- B6 bot -->
+  <rect x="24" y="492" width="420" height="88" rx="18" fill="#21262d"/>
+  <text x="44" y="520" font-size="15" fill="#e6edf3">openpilot self-driving for my Ioniq 6,</text>
+  <text x="44" y="542" font-size="15" fill="#e6edf3">a gold/silver price desk for jewellers,</text>
+  <text x="44" y="564" font-size="15" fill="#e6edf3">and whatever doesn't let me sleep.</text>
+
+  <!-- B7 user -->
+  <rect x="506" y="594" width="150" height="44" rx="18" fill="url(#accent)"/>
+  <text x="640" y="622" font-size="15" fill="#ffffff" text-anchor="end">confidence?</text>
+
+  <!-- B8 bot -->
+  <rect x="24" y="652" width="210" height="44" rx="18" fill="#21262d"/>
+  <text x="44" y="680" font-size="15" font-weight="600" fill="#F75C7E">0.97 — let's talk.</text>
+</svg>

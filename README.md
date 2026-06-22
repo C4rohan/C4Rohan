@@ -17,40 +17,9 @@
 
 ## 👨🏻‍💻 About Me
 
-```bash
-$ rohan --help
-A Conversational AI Developer who builds voice & chat agents
-that actually pick up the phone.
-
-USAGE:
-  rohan [SUBCOMMAND]
-
-SUBCOMMANDS:
-  build       design dialog flows, NLU, fulfillment & IVR
-  ship        production agents on Dialogflow CX, Kore.ai, Genesys
-  tinker      GenAI apps, openpilot for my Ioniq 6, fog-screen displays
-  coffee ☕   always open — ask me how a bot really learns to listen
-```
-
-> ```text
-> 👤 You    : who are you?
-> 🤖 Rohan  : Conversational AI Developer — 5+ yrs shipping voice
->             & chat agents that handle real customer traffic.
->
-> 👤 You    : like what?
-> 🤖 Rohan  : Bilingual healthcare IVR (40% call deflection),
->             multilingual visit-verification over SMS+voice,
->             GPT-4 chatbots, and a few things I'm not allowed
->             to talk about 😉
->
-> 👤 You    : what are you building now?
-> 🤖 Rohan  : An openpilot self-driving stack for my Ioniq 6,
->             a gold/silver price desk for jewellers,
->             and whatever doesn't let me sleep this week.
->
-> 👤 You    : confidence?
-> 🤖 Rohan  : 0.97 — let's talk.
-> ```
+<div align="center">
+  <img src="chat.svg" alt="Chat with Rohan" width="540" />
+</div>
 
 <details>
 <summary>📄 More about me</summary>
