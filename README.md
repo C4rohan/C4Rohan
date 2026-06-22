@@ -91,16 +91,24 @@ Multilingual caregiver visit verification over **calls + SMS** using **Voximplan
 
 ---
 
-## 🏆 Where I've Shipped
+<details>
+<summary>🏆 <b>Where I've Shipped</b> — clients & employers</summary>
+
+<br>
 
 `HCA Healthcare` · `Parallon` · `CereCore` · `Cognizant` · `Verizon` · `University of Maryland Medical Systems` · `Devoted Guardians` · `Prince George's Community College` · `Elara Caring`
 
----
+</details>
 
-## 🎓 Certifications
+<details>
+<summary>🎓 <b>Certifications</b></summary>
+
+<br>
 
 - <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="20" /> **Google Cloud — Professional Data Engineer**
 - <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="20" /> **Microsoft Azure — AI-102: Designing & Implementing an Azure AI Solution**
+
+</details>
 
 ---
 
