@@ -4,6 +4,29 @@
       <stop offset="0%" stop-color="#F75C7E"/>
       <stop offset="100%" stop-color="#7C3AED"/>
     </linearGradient>
+    <style>
+      .m1,.m2,.m3,.m4,.m5,.m6,.m7,.m8,.t1,.t2,.t3,.t4 { opacity: 0; }
+      .m1 { animation: a1 15s infinite; } .m2 { animation: a2 15s infinite; }
+      .m3 { animation: a3 15s infinite; } .m4 { animation: a4 15s infinite; }
+      .m5 { animation: a5 15s infinite; } .m6 { animation: a6 15s infinite; }
+      .m7 { animation: a7 15s infinite; } .m8 { animation: a8 15s infinite; }
+      .t1 { animation: t1 15s infinite; } .t2 { animation: t2 15s infinite; }
+      .t3 { animation: t3 15s infinite; } .t4 { animation: t4 15s infinite; }
+      .dot { animation: bounce 1.2s infinite ease-in-out; }
+      @keyframes a1 { 0%{opacity:0;transform:translateY(10px)} 3.3%{opacity:1;transform:translateY(0)} 97%{opacity:1} 100%{opacity:0} }
+      @keyframes a2 { 0%{opacity:0;transform:translateY(10px)} 17%{opacity:0;transform:translateY(10px)} 20%{opacity:1;transform:translateY(0)} 97%{opacity:1} 100%{opacity:0} }
+      @keyframes a3 { 0%{opacity:0;transform:translateY(10px)} 24%{opacity:0;transform:translateY(10px)} 26.7%{opacity:1;transform:translateY(0)} 97%{opacity:1} 100%{opacity:0} }
+      @keyframes a4 { 0%{opacity:0;transform:translateY(10px)} 40%{opacity:0;transform:translateY(10px)} 43.3%{opacity:1;transform:translateY(0)} 97%{opacity:1} 100%{opacity:0} }
+      @keyframes a5 { 0%{opacity:0;transform:translateY(10px)} 47%{opacity:0;transform:translateY(10px)} 50%{opacity:1;transform:translateY(0)} 97%{opacity:1} 100%{opacity:0} }
+      @keyframes a6 { 0%{opacity:0;transform:translateY(10px)} 64%{opacity:0;transform:translateY(10px)} 66.7%{opacity:1;transform:translateY(0)} 97%{opacity:1} 100%{opacity:0} }
+      @keyframes a7 { 0%{opacity:0;transform:translateY(10px)} 70%{opacity:0;transform:translateY(10px)} 73.3%{opacity:1;transform:translateY(0)} 97%{opacity:1} 100%{opacity:0} }
+      @keyframes a8 { 0%{opacity:0;transform:translateY(10px)} 82%{opacity:0;transform:translateY(10px)} 85.3%{opacity:1;transform:translateY(0)} 97%{opacity:1} 100%{opacity:0} }
+      @keyframes t1 { 0%,9%{opacity:0} 10%,19%{opacity:1} 20%,100%{opacity:0} }
+      @keyframes t2 { 0%,32%{opacity:0} 33.3%,42%{opacity:1} 43.3%,100%{opacity:0} }
+      @keyframes t3 { 0%,55%{opacity:0} 56.7%,65%{opacity:1} 66.7%,100%{opacity:0} }
+      @keyframes t4 { 0%,77%{opacity:0} 78.7%,84%{opacity:1} 85.3%,100%{opacity:0} }
+      @keyframes bounce { 0%,80%,100%{transform:translateY(0);opacity:.4} 40%{transform:translateY(-4px);opacity:1} }
+    </style>
   </defs>
 
   <!-- card -->
@@ -18,41 +41,89 @@
   <line x1="20" y1="76" x2="660" y2="76" stroke="#30363d" stroke-width="1"/>
 
   <!-- B1 user -->
-  <rect x="506" y="92" width="150" height="44" rx="18" fill="url(#accent)"/>
-  <text x="640" y="120" font-size="15" fill="#ffffff" text-anchor="end">who are you?</text>
+  <g class="m1">
+    <rect x="506" y="92" width="150" height="44" rx="18" fill="url(#accent)"/>
+    <text x="640" y="120" font-size="15" fill="#ffffff" text-anchor="end">who are you?</text>
+  </g>
+
+  <!-- typing 1 -->
+  <g class="t1">
+    <rect x="24" y="150" width="74" height="40" rx="18" fill="#21262d"/>
+    <circle class="dot" cx="46" cy="170" r="5" fill="#8b949e"/>
+    <circle class="dot" cx="61" cy="170" r="5" fill="#8b949e" style="animation-delay:.2s"/>
+    <circle class="dot" cx="76" cy="170" r="5" fill="#8b949e" style="animation-delay:.4s"/>
+  </g>
 
   <!-- B2 bot -->
-  <rect x="24" y="150" width="430" height="88" rx="18" fill="#21262d"/>
-  <text x="44" y="178" font-size="15" fill="#e6edf3">Conversational AI Developer — 5+ years</text>
-  <text x="44" y="200" font-size="15" fill="#e6edf3">shipping voice &amp; chat agents that handle</text>
-  <text x="44" y="222" font-size="15" fill="#e6edf3">real customer traffic.</text>
+  <g class="m2">
+    <rect x="24" y="150" width="430" height="88" rx="18" fill="#21262d"/>
+    <text x="44" y="178" font-size="15" fill="#e6edf3">Conversational AI Developer — 5+ years</text>
+    <text x="44" y="200" font-size="15" fill="#e6edf3">shipping voice &amp; chat agents that handle</text>
+    <text x="44" y="222" font-size="15" fill="#e6edf3">real customer traffic.</text>
+  </g>
 
   <!-- B3 user -->
-  <rect x="516" y="252" width="140" height="44" rx="18" fill="url(#accent)"/>
-  <text x="640" y="280" font-size="15" fill="#ffffff" text-anchor="end">like what?</text>
+  <g class="m3">
+    <rect x="516" y="252" width="140" height="44" rx="18" fill="url(#accent)"/>
+    <text x="640" y="280" font-size="15" fill="#ffffff" text-anchor="end">like what?</text>
+  </g>
+
+  <!-- typing 2 -->
+  <g class="t2">
+    <rect x="24" y="310" width="74" height="40" rx="18" fill="#21262d"/>
+    <circle class="dot" cx="46" cy="330" r="5" fill="#8b949e"/>
+    <circle class="dot" cx="61" cy="330" r="5" fill="#8b949e" style="animation-delay:.2s"/>
+    <circle class="dot" cx="76" cy="330" r="5" fill="#8b949e" style="animation-delay:.4s"/>
+  </g>
 
   <!-- B4 bot -->
-  <rect x="24" y="310" width="468" height="110" rx="18" fill="#21262d"/>
-  <text x="44" y="338" font-size="15" fill="#e6edf3">Bilingual healthcare IVR (40% call</text>
-  <text x="44" y="360" font-size="15" fill="#e6edf3">deflection), multilingual visit-verification</text>
-  <text x="44" y="382" font-size="15" fill="#e6edf3">over SMS + voice, GPT-4 chatbots —</text>
-  <text x="44" y="404" font-size="15" fill="#e6edf3">and a few things I can't mention.</text>
+  <g class="m4">
+    <rect x="24" y="310" width="468" height="110" rx="18" fill="#21262d"/>
+    <text x="44" y="338" font-size="15" fill="#e6edf3">Bilingual healthcare IVR (40% call</text>
+    <text x="44" y="360" font-size="15" fill="#e6edf3">deflection), multilingual visit-verification</text>
+    <text x="44" y="382" font-size="15" fill="#e6edf3">over SMS + voice, GPT-4 chatbots —</text>
+    <text x="44" y="404" font-size="15" fill="#e6edf3">and a few things I can't mention.</text>
+  </g>
 
   <!-- B5 user -->
-  <rect x="416" y="434" width="240" height="44" rx="18" fill="url(#accent)"/>
-  <text x="640" y="462" font-size="15" fill="#ffffff" text-anchor="end">what are you building now?</text>
+  <g class="m5">
+    <rect x="416" y="434" width="240" height="44" rx="18" fill="url(#accent)"/>
+    <text x="640" y="462" font-size="15" fill="#ffffff" text-anchor="end">what are you building now?</text>
+  </g>
+
+  <!-- typing 3 -->
+  <g class="t3">
+    <rect x="24" y="492" width="74" height="40" rx="18" fill="#21262d"/>
+    <circle class="dot" cx="46" cy="512" r="5" fill="#8b949e"/>
+    <circle class="dot" cx="61" cy="512" r="5" fill="#8b949e" style="animation-delay:.2s"/>
+    <circle class="dot" cx="76" cy="512" r="5" fill="#8b949e" style="animation-delay:.4s"/>
+  </g>
 
   <!-- B6 bot -->
-  <rect x="24" y="492" width="420" height="88" rx="18" fill="#21262d"/>
-  <text x="44" y="520" font-size="15" fill="#e6edf3">openpilot self-driving for my Ioniq 6,</text>
-  <text x="44" y="542" font-size="15" fill="#e6edf3">a gold/silver price desk for jewellers,</text>
-  <text x="44" y="564" font-size="15" fill="#e6edf3">and whatever doesn't let me sleep.</text>
+  <g class="m6">
+    <rect x="24" y="492" width="420" height="88" rx="18" fill="#21262d"/>
+    <text x="44" y="520" font-size="15" fill="#e6edf3">openpilot self-driving for my Ioniq 6,</text>
+    <text x="44" y="542" font-size="15" fill="#e6edf3">a gold/silver price desk for jewellers,</text>
+    <text x="44" y="564" font-size="15" fill="#e6edf3">and whatever doesn't let me sleep.</text>
+  </g>
 
   <!-- B7 user -->
-  <rect x="506" y="594" width="150" height="44" rx="18" fill="url(#accent)"/>
-  <text x="640" y="622" font-size="15" fill="#ffffff" text-anchor="end">confidence?</text>
+  <g class="m7">
+    <rect x="506" y="594" width="150" height="44" rx="18" fill="url(#accent)"/>
+    <text x="640" y="622" font-size="15" fill="#ffffff" text-anchor="end">confidence?</text>
+  </g>
+
+  <!-- typing 4 -->
+  <g class="t4">
+    <rect x="24" y="652" width="74" height="40" rx="18" fill="#21262d"/>
+    <circle class="dot" cx="46" cy="672" r="5" fill="#8b949e"/>
+    <circle class="dot" cx="61" cy="672" r="5" fill="#8b949e" style="animation-delay:.2s"/>
+    <circle class="dot" cx="76" cy="672" r="5" fill="#8b949e" style="animation-delay:.4s"/>
+  </g>
 
   <!-- B8 bot -->
-  <rect x="24" y="652" width="210" height="44" rx="18" fill="#21262d"/>
-  <text x="44" y="680" font-size="15" font-weight="600" fill="#F75C7E">0.97 — let's talk.</text>
+  <g class="m8">
+    <rect x="24" y="652" width="210" height="44" rx="18" fill="#21262d"/>
+    <text x="44" y="680" font-size="15" font-weight="600" fill="#F75C7E">0.97 — let's talk.</text>
+  </g>
 </svg>
