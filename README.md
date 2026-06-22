@@ -112,10 +112,6 @@ Multilingual caregiver visit verification over **calls + SMS** using **Voximplan
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=C4rohan&theme=redical&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=C4rohan&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</div>
-
 ---
 
 <div align="center">
