@@ -5,6 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=C4rohan&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="profile views" />
     <img src="https://img.shields.io/github/followers/C4rohan?label=Followers&style=for-the-badge&color=F75C7E&logo=github" alt="followers" />
   </p>
+
+  <a href="https://c4rohan.github.io">
+    <img src="https://img.shields.io/badge/%F0%9F%94%8A_Hear_my_intro-161b22?style=for-the-badge&labelColor=F75C7E" alt="Hear my intro" />
+  </a>
 </div>
 
 ---
