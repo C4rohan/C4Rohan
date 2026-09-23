@@ -125,6 +125,19 @@ Multilingual caregiver visit verification over **calls + SMS** using **Voximplan
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=C4rohan&theme=redical&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
 </div>
 
+<!-- Isometric calendar — regenerated daily by .github/workflows/metrics.yml -->
+<div align="center">
+  <img src="github-metrics.svg" alt="Contributions calendar" />
+</div>
+
+<!-- Snake — regenerated daily by .github/workflows/snake.yml -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C4rohan/C4Rohan/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/C4rohan/C4Rohan/output/github-snake.svg" width="100%" alt="Contribution snake" />
+  </picture>
+</div>
+
 ---
 
 <div align="center">
