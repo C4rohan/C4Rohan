@@ -121,9 +121,6 @@ Multilingual caregiver visit verification over **calls + SMS** using **Voximplan
   <img src="https://streak-stats.demolab.com?user=C4rohan&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C4rohan&theme=redical&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
-</div>
 
 <!-- Isometric calendar — regenerated daily by .github/workflows/metrics.yml -->
 <div align="center">
