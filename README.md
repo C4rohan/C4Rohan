@@ -75,8 +75,34 @@
 
 > A mix of what I'm building in the open and the conversational-AI systems I've shipped in production.
 
+<a href="https://github.com/C4rohan/lampline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C4rohan/lampline/prod/docs/brand/lampline-logo-dark.png" />
+    <img src="https://raw.githubusercontent.com/C4rohan/lampline/prod/docs/brand/lampline-logo-light.png" alt="Lampline" width="200" />
+  </picture>
+</a>
+
+### 💡 [Lampline](https://github.com/C4rohan/lampline) — *flagship, open source*
+A **self-hosted voice agent platform**: import your **Dialogflow CX** and **CX Agent Studio** agents, then build, test and take calls on your own hardware — for about **$0.02–0.17 a call instead of $0.50**.
+
+- Drag-and-drop builder that mixes LLM steps and scripted pages, with a live test console
+- **20 model providers** (Claude, OpenAI, Gemini, Vertex, Bedrock, Ollama…) and phone/SIP via jambonz
+- Agents as code (YAML + Markdown) with the `vk` CLI · local-first, no telemetry · built on Pipecat
+
+![Stars](https://img.shields.io/github/stars/C4rohan/lampline?style=flat-square&color=F75C7E&labelColor=161b22)
+![Release](https://img.shields.io/github/v/release/C4rohan/lampline?style=flat-square&color=7C3AED&labelColor=161b22)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)
+
+<a href="https://github.com/C4rohan/lampline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C4rohan/lampline/prod/docs/images/builder-dark.webp" />
+    <img src="https://raw.githubusercontent.com/C4rohan/lampline/prod/docs/images/builder-light.webp" alt="The Lampline builder" width="100%" />
+  </picture>
+</a>
+
 ### 🛣️ [ioniq6-pilot](https://github.com/C4rohan/ioniq6-pilot)
-Personal **openpilot** self-driving build for a Hyundai Ioniq 6 running on a comma 3X — driver-assist tuning, lateral/longitudinal control, and real-world testing. `Python`
+Personal **openpilot** build for a Hyundai Ioniq 6 on a comma 3X — NNLC steering tune, reverse-camera view, sentry mode and a phone dashboard, auto-rebased onto each new sunnypilot release. `Python`
 
 ### 🤝 HealthAssist — *Production*
 Bilingual, cloud-native **Dialogflow CX virtual agent** on **Genesys CX** (us-central1/us-east1 redundancy) automating medical billing & records self-service. **Deflects 20–40% of calls, ~85% lower contact-center cost, 24/7 availability.**
