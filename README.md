@@ -30,6 +30,14 @@
 
 ---
 
+## ⚡ Now — October 2026
+
+- 💡 **Shipped [Lampline v0.1.0](https://github.com/C4rohan/lampline/releases/tag/v0.1.0)**, my self-hosted voice agent platform. Next up: one-command **Google Cloud** deployment and **Genesys Cloud AudioHook**, so contact centers can hand calls to self-hosted agents.
+- 🚗 **[ioniq6-pilot](https://github.com/C4rohan/ioniq6-pilot):** first real-car tests of sentry mode and steering-tune feedback.
+- 🤝 **Open to** conversations about voice AI, contact-center automation and self-hosted LLM agents.
+
+---
+
 ## ⚙️ Tech Stack
 
 **Languages**  
