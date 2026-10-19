@@ -71,6 +71,52 @@
 
 ---
 
+## 🏗️ How a call flows
+
+> The voice-agent architecture I design — in production on Dialogflow CX + Genesys, and self-hosted with [Lampline](https://github.com/C4rohan/lampline).
+
+```mermaid
+flowchart LR
+  caller(["📞 Caller"])
+
+  subgraph tel["Telephony"]
+    direction TB
+    genesys["Genesys CX"]
+    sip["Twilio · Telnyx · SIP<br/>via jambonz"]
+  end
+
+  subgraph runtime["Agent runtime — Dialogflow CX or Lampline"]
+    direction TB
+    stt["🎙️ Speech-to-text"]
+    router{"Flow / page<br/>router"}
+    llm["🧠 LLM step<br/>Claude · Gemini · GPT"]
+    scripted["📋 Scripted page<br/>forms · rules"]
+    tts["🔊 Text-to-speech"]
+    stt --> router
+    router --> llm
+    router --> scripted
+    llm --> tts
+    scripted --> tts
+  end
+
+  tools[("🔌 Webhooks & MCP tools<br/>billing · records · CRM")]
+  human["👩‍💼 Live agent"]
+
+  caller <--> tel
+  tel --> stt
+  tts --> tel
+  llm <--> tools
+  scripted <--> tools
+  router -. "handoff" .-> human
+
+  classDef accent fill:#F75C7E,stroke:#F75C7E,color:#ffffff
+  classDef brain fill:#7C3AED,stroke:#7C3AED,color:#ffffff
+  class router accent
+  class llm,scripted brain
+```
+
+---
+
 ## 🚀 Featured Projects
 
 > A mix of what I'm building in the open and the conversational-AI systems I've shipped in production.
@@ -102,6 +148,8 @@ A **self-hosted voice agent platform**: import your **Dialogflow CX** and **CX A
 </a>
 
 ### 🛣️ [ioniq6-pilot](https://github.com/C4rohan/ioniq6-pilot)
+![Rebased on sunnypilot](https://img.shields.io/github/last-commit/C4rohan/ioniq6-pilot/ioniq6-tizi-custom?display_timestamp=committer&label=rebased%20on%20sunnypilot&style=flat-square&color=7C3AED&labelColor=161b22&logo=git&logoColor=white)
+
 Personal **openpilot** build for a Hyundai Ioniq 6 on a comma 3X — NNLC steering tune, reverse-camera view, sentry mode and a phone dashboard, auto-rebased onto each new sunnypilot release. `Python`
 
 ### 🤝 HealthAssist — *Production*
