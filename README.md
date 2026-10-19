@@ -113,8 +113,8 @@ Multilingual caregiver visit verification over **calls + SMS** using **Voximplan
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C4rohan&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github&card_width=450" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rohan&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=320" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C4rohan&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&rank_icon=github&card_width=450&hide=contribs" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4rohan&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,dockerfile&theme=radical&hide_border=true&card_width=320" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
