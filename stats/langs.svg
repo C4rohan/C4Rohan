@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180" font-family="Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-label="Most used languages">
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F75C7E"/><stop offset="100%" stop-color="#7C3AED"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="319" height="179" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="38" font-size="18" font-weight="700" fill="url(#accent)">Most Used Languages</text>
+<clipPath id="bar"><rect x="24" y="56" width="272" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="24.00" y="56" width="199.72" height="8" fill="#3572A5"/>
+<rect x="223.22" y="56" width="66.01" height="8" fill="#3178c6"/>
+<rect x="288.73" y="56" width="4.38" height="8" fill="#f1e05a"/>
+<rect x="292.61" y="56" width="3.89" height="8" fill="#89e051"/>
+</g>
+<circle cx="29" cy="90" r="5" fill="#3572A5"/>
+<text x="40" y="94" font-size="12" fill="#e6edf3">Python <tspan fill="#8b949e">73.2%</tspan></text>
+<circle cx="169" cy="90" r="5" fill="#3178c6"/>
+<text x="180" y="94" font-size="12" fill="#e6edf3">TypeScript <tspan fill="#8b949e">24.1%</tspan></text>
+<circle cx="29" cy="116" r="5" fill="#f1e05a"/>
+<text x="40" y="120" font-size="12" fill="#e6edf3">JavaScript <tspan fill="#8b949e">1.4%</tspan></text>
+<circle cx="169" cy="116" r="5" fill="#89e051"/>
+<text x="180" y="120" font-size="12" fill="#e6edf3">Shell <tspan fill="#8b949e">1.2%</tspan></text>
+</svg>
