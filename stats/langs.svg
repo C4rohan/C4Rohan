@@ -4,15 +4,15 @@
 <text x="24" y="38" font-size="18" font-weight="700" fill="url(#accent)">Most Used Languages</text>
 <clipPath id="bar"><rect x="24" y="56" width="272" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">
-<rect x="24.00" y="56" width="199.72" height="8" fill="#3572A5"/>
-<rect x="223.22" y="56" width="66.01" height="8" fill="#3178c6"/>
-<rect x="288.73" y="56" width="4.38" height="8" fill="#f1e05a"/>
-<rect x="292.61" y="56" width="3.89" height="8" fill="#89e051"/>
+<rect x="24.00" y="56" width="200.00" height="8" fill="#3572A5"/>
+<rect x="223.50" y="56" width="65.76" height="8" fill="#3178c6"/>
+<rect x="288.76" y="56" width="4.37" height="8" fill="#f1e05a"/>
+<rect x="292.63" y="56" width="3.87" height="8" fill="#89e051"/>
 </g>
 <circle cx="29" cy="90" r="5" fill="#3572A5"/>
-<text x="40" y="94" font-size="12" fill="#e6edf3">Python <tspan fill="#8b949e">73.2%</tspan></text>
+<text x="40" y="94" font-size="12" fill="#e6edf3">Python <tspan fill="#8b949e">73.3%</tspan></text>
 <circle cx="169" cy="90" r="5" fill="#3178c6"/>
-<text x="180" y="94" font-size="12" fill="#e6edf3">TypeScript <tspan fill="#8b949e">24.1%</tspan></text>
+<text x="180" y="94" font-size="12" fill="#e6edf3">TypeScript <tspan fill="#8b949e">24.0%</tspan></text>
 <circle cx="29" cy="116" r="5" fill="#f1e05a"/>
 <text x="40" y="120" font-size="12" fill="#e6edf3">JavaScript <tspan fill="#8b949e">1.4%</tspan></text>
 <circle cx="169" cy="116" r="5" fill="#89e051"/>
